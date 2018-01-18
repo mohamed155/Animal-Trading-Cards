@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+.animal-card {
+    width: 300px;
+    border: solid 2px #e0e0e0;
+    padding: 10px;
+    box-shadow: 5px 5px #EEE;
+}
+
+.animal-card h3 {
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.animal-card img {
+    margin-bottom: 10px;
+}
+
+.animal-card div {
+    border: solid 2px #EEE;
+    padding: 10px;
+}
+
+.animal-card div p#fact {
+    font-style: italic;
+}
+
+.animal-card div p {
+    margin: 5px 0;
+}
+
+.animal-card div ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.animal-card div ul span {
+    font-weight: bolder;
+}
